@@ -2,7 +2,7 @@
 title: Making HappyFunTimes into a Platform
 date: '2014-06-10'
 layout: post
-permalink: /making-happyfuntimes-into-a-platform/
+permalink: /blog/making-happyfuntimes-into-a-platform/
 tags:
   - Uncategorized
 dsq_thread_id: '2822675168'

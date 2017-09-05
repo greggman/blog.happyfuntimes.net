@@ -2,7 +2,7 @@
 title: First Post
 date: '2014-06-09'
 layout: post
-permalink: /first-post/
+permalink: /blog/first-post/
 tags:
   - Uncategorized
 dsq_thread_id: '2748923691'

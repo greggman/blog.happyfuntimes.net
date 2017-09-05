@@ -2,7 +2,7 @@
 title: New Version Coming Soon
 date: '2015-04-30'
 layout: post
-permalink: /new-version-coming-soon/
+permalink: /blog/new-version-coming-soon/
 tags:
   - HappyFunTimes
 dsq_thread_id: '3724924797'

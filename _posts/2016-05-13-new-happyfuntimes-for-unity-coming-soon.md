@@ -2,7 +2,7 @@
 title: New HappyFunTimes for Unity Coming Soon
 date: '2016-05-13'
 layout: post
-permalink: /new-happyfuntimes-for-unity-coming-soon/
+permalink: /blog/new-happyfuntimes-for-unity-coming-soon/
 tags:
   - Uncategorized
 dsq_thread_id: '4842607609'

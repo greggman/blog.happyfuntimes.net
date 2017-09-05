@@ -2,7 +2,7 @@
 title: Taking things for granted
 date: '2014-09-07'
 layout: post
-permalink: /taking-things-for-granted/
+permalink: /blog/taking-things-for-granted/
 tags:
   - Uncategorized
   - git

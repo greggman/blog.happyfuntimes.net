@@ -2,7 +2,7 @@
 title: HappyFunTimes Unity Plugin now on the Unity Asset Store
 date: '2015-07-27'
 layout: post
-permalink: /happyfuntimes-unity-plugin-now-on-the-unity-asset-store/
+permalink: /blog/happyfuntimes-unity-plugin-now-on-the-unity-asset-store/
 tags:
   - happyfuntimes
   - HappyFunTimes

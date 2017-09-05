@@ -2,7 +2,7 @@
 title: Thinking outside the Box - Making HFT Games
 date: '2015-01-17'
 layout: post
-permalink: /thinking-outside-the-box-making-hft-games/
+permalink: /blog/thinking-outside-the-box-making-hft-games/
 tags:
   - HappyFunTimes
 dsq_thread_id: '3427561655'

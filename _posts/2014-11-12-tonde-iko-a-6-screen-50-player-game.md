@@ -2,7 +2,7 @@
 title: 'Tonde Iko, a 6 screen 50 player game'
 date: '2014-11-12'
 layout: post
-permalink: /tonde-iko-a-6-screen-50-player-game/
+permalink: /blog/tonde-iko-a-6-screen-50-player-game/
 tags:
   - HappyFunTimes
 dsq_thread_id: '3216361411'

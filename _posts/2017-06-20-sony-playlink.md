@@ -2,7 +2,7 @@
 title: Sony Playlink
 date: '2017-06-20'
 layout: post
-permalink: /sony-playlink/
+permalink: /blog/sony-playlink/
 tags:
   - HappyFunTimes
 dsq_thread_id: '5925763350'

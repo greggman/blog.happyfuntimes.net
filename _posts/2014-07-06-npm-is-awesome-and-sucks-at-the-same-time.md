@@ -2,7 +2,7 @@
 title: npm is awesome and sucks at the same time.
 date: '2014-07-06'
 layout: post
-permalink: /npm-is-awesome-and-sucks-at-the-same-time/
+permalink: /blog/npm-is-awesome-and-sucks-at-the-same-time/
 tags:
   - Uncategorized
 dsq_thread_id: '2834669330'

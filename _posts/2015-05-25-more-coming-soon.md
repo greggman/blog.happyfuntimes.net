@@ -2,7 +2,7 @@
 title: More coming soon
 date: '2015-05-25'
 layout: post
-permalink: /more-coming-soon/
+permalink: /blog/more-coming-soon/
 tags:
   - happyfuntimes
   - HappyFunTimes

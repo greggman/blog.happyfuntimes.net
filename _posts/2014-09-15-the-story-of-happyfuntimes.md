@@ -2,7 +2,7 @@
 title: The Story of HappyFunTimes
 date: '2014-09-15'
 layout: post
-permalink: /the-story-of-happyfuntimes/
+permalink: /blog/the-story-of-happyfuntimes/
 tags:
   - HappyFunTimes
   - SuperHappyFunTimes

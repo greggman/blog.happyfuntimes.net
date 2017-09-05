@@ -2,7 +2,7 @@
 title: happyFunTimes standalone HTML5 library
 date: '2016-12-05'
 layout: post
-permalink: /happyfuntimes-standalone-html5-library/
+permalink: /blog/happyfuntimes-standalone-html5-library/
 tags:
   - HappyFunTimes
 dsq_thread_id: '5358535068'

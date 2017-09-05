@@ -2,7 +2,7 @@
 title: Fixing the wrong bug.
 date: '2014-09-05'
 layout: post
-permalink: /fixing-the-wrong-bug/
+permalink: /blog/fixing-the-wrong-bug/
 tags:
   - Uncategorized
   - coding

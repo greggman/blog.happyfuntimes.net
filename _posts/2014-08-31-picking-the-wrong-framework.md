@@ -2,7 +2,7 @@
 title: Picking the wrong Framework?
 date: '2014-08-31'
 layout: post
-permalink: /picking-the-wrong-framework/
+permalink: /blog/picking-the-wrong-framework/
 tags:
   - Uncategorized
 dsq_thread_id: '3215844402'

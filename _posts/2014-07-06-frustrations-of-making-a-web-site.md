@@ -2,7 +2,7 @@
 title: Frustrations of making a web site
 date: '2014-07-06'
 layout: post
-permalink: /frustrations-of-making-a-web-site/
+permalink: /blog/frustrations-of-making-a-web-site/
 tags:
   - Uncategorized
 dsq_thread_id: '3566790733'

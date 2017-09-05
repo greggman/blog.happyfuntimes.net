@@ -2,7 +2,7 @@
 title: more npm sadness
 date: '2014-07-07'
 layout: post
-permalink: /more-npm-sadness/
+permalink: /blog/more-npm-sadness/
 tags:
   - Uncategorized
 dsq_thread_id: '2839485402'

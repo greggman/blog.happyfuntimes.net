@@ -2,7 +2,7 @@
 title: Simplifying HappyFunTimes
 date: '2016-06-16'
 layout: post
-permalink: /simplifying-happyfuntimes/
+permalink: /blog/simplifying-happyfuntimes/
 tags:
   - Uncategorized
 dsq_thread_id: '4924876524'

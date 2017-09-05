@@ -2,7 +2,7 @@
 title: Apparent lack of Progress
 date: '2015-06-23'
 layout: post
-permalink: /appearent-lack-of-progress/
+permalink: /blog/appearent-lack-of-progress/
 tags:
   - HappyFunTimes
 dsq_thread_id: '3887491210'

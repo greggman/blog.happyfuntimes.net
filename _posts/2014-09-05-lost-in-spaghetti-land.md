@@ -2,7 +2,7 @@
 title: lost in spaghetti land
 date: '2014-09-05'
 layout: post
-permalink: /lost-in-spaghetti-land/
+permalink: /blog/lost-in-spaghetti-land/
 tags:
   - database
   - SuperHappyFunTimes
