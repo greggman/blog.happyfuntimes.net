@@ -11,7 +11,7 @@ UCLA ran a game jam for HappyFunTimes in December (2014). At the start of the
 jam I gave a short presentation about HappyFunTimes. It seemed like there were
 some ideas that would be good to pass on so here it is reproduced.
 
-<img src="/blog/images/2014-12-gamejam/superhft.jpg" alt="super happy fun times game jam" />
+<img src="/images/2014-12-gamejam/superhft.jpg" alt="super happy fun times game jam" />
 
 The presentation started with some of my history of which you can find too much
 of on my [gamedev blog](http://games.greggman.com). Otherwise I started off with actually showing the system and letting people
@@ -27,7 +27,7 @@ So after that we got into a few specifics
 <div class="slide">
   <h1>Why it's Easy!</h1>
   <h2>Phones are just controllers</h2>
-  <image src="/blog/images/2014-12-gamejam/controllers-vs-phones.gif"></image>
+  <image src="/images/2014-12-gamejam/controllers-vs-phones.gif"></image>
 </div>
 
 Most networked games require all kinds of crazy tech. For example an FPS
@@ -73,7 +73,7 @@ edge of the arena where they can throw bombs in and collect powerups. That way
 they still have something to do. They can try taking the other players out to
 end the game sooner.
 
-<img src="/blog/images/2014-12-gamejam/boomboom-413-players.jpg" alt="Too Many Players?" />
+<img src="/images/2014-12-gamejam/boomboom-413-players.jpg" alt="Too Many Players?" />
 
 Can you have too many players? HappyFunTimes has no limit. The limit is only
 your networking equipment and whatever latency issues you end up having. A
@@ -92,7 +92,7 @@ experience.
 
 <div class="slide">
   <h1>Multi-Screen Simon</h1>
-  <img src="/blog/images/2014-12-gamejam/simon.gif" />
+  <img src="/images/2014-12-gamejam/simon.gif" />
 </div>
 
 At the time of this presentation the majority of the sample games I'd made had
@@ -109,7 +109,7 @@ For example what about some kind of giant [Simon game](https://en.wikipedia.org/
 phone to make a large control surface sounds like it could lead to some
 interesting ideas.
 
-<img src="/blog/images/2014-12-gamejam/team-games.png" alt="Team Games" />
+<img src="/images/2014-12-gamejam/team-games.png" alt="Team Games" />
 
 How about team games. In the game above blue and green form one team, red and
 yellow form another team. They need to go find each other in the room and press
@@ -132,7 +132,7 @@ whatever question is on the phone.
 
 <div class="slide">
   <h1>Team Trace Race</h1>
-  <img src="/blog/images/2014-12-gamejam/finger-race.gif" />
+  <img src="/images/2014-12-gamejam/finger-race.gif" />
 </div>
 
 In this example players are put in teams by color. So for example everyone with
@@ -153,7 +153,7 @@ start of the figure on phone &#0035;2 etc..
       &lt;div class="button" id="up"&gt;▲&lt;/div&gt;
     &lt;/div&gt;
   </pre>
-  <img src="/blog/images/2014-12-gamejam/jumpjump-controller.png" />
+  <img src="/images/2014-12-gamejam/jumpjump-controller.png" />
 </div>
 
 Making controllers is easy because they are just web page. Just make some HTML,
@@ -162,13 +162,13 @@ you're limited to players with Android and iOS8+).
 
 <div class="slide">
   <h1>Controllers are Web Pages</h1>
-  <img src="/blog/images/2014-12-gamejam/phone-is-webpage.gif" />
+  <img src="/images/2014-12-gamejam/phone-is-webpage.gif" />
 </div>
 
 But, at the same time, it's a webpage. That means the browser can get in they
 way. For example iOS8 added these bars you can't get rid of &#128526;
 
-<img src="/blog/images/2014-12-gamejam/easy-less-easy.png" alt="Easier or Less Easy" />
+<img src="/images/2014-12-gamejam/easy-less-easy.png" alt="Easier or Less Easy" />
 
 So, it might be easier to make portrait controllers instead of landscape
 controllers. On Chrome you can use the fullscreen API to get rid of all the
@@ -176,7 +176,7 @@ browser UI. Hopefully iOS 8.1 or a future version will add something similar.
 
 <div class="slide">
   <h1>Chome Dev Tools FTW!</h1>
-  <img src="/blog/images/2014-12-gamejam/LeadingBlackandwhiteBorzoi.gif" />
+  <img src="/images/2014-12-gamejam/LeadingBlackandwhiteBorzoi.gif" />
 </div>
 
 Chrome dev tools (and I'm sure Safari and Firefox and maybe even IE11+) have
@@ -197,7 +197,7 @@ controls, one set for people with small screens, another for people with
 midsized screens, yet another for people with giant screens. That's up to you
 it's just important to be aware of.
 
-<img src="/blog/images/2014-12-gamejam/phone-sims.png" alt="Phone Simulators" />
+<img src="/images/2014-12-gamejam/phone-sims.png" alt="Phone Simulators" />
 
 Phone simulators are your friend. At least the iPhone one in [XCode](https://developer.apple.com/xcode/downloads/) if you're on OSX is fast and easy to use. It's not perfect because you can't
 easily simulate device orientation for example but if your game doesn't need
@@ -206,7 +206,7 @@ don't waste your time with that one.
 
 Also be aware that you can [remote debug both iOS Safari and Android Chrome](http://developer.telerik.com/featured/a-concise-guide-to-remote-debugging-on-ios-android-and-windows-phone/) which can be a huge help.
 
-<img src="/blog/images/2014-12-gamejam/windows-r-ur-friend.png" alt="Use Browser Windows" />
+<img src="/images/2014-12-gamejam/windows-r-ur-friend.png" alt="Use Browser Windows" />
 
 You can simulate lots of players by opening browser windows. That much much
 MUCH faster and easier than connecting phones every time or using the

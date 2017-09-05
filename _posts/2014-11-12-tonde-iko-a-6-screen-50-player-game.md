@@ -38,7 +38,7 @@ portal in the next game.
 My initial plan was just to basically keep the game just like jumpjump used to
 be. I wasn't planning on making it prettier.
 
-<img src="/blog/images/tonde-iko/jumpjump-old.png" />
+<img src="/images/tonde-iko/jumpjump-old.png" />
 
 But then I needed to be able to design levels faster than typing them in in
 ascii in source code I googled "open source tiled map editor" or something like
@@ -54,11 +54,11 @@ I switched my code to use the .json then made it load the graphics as well. I
 then went and searched for open source art. I found several tilesets and tried
 to use them. I made 3 of 6 levels. It took way longer than I expected.
 
-<img src="/blog/images/tonde-iko/level0-sm.png" />
+<img src="/images/tonde-iko/level0-sm.png" />
 
-<img src="/blog/images/tonde-iko/level1-sm.png" />
+<img src="/images/tonde-iko/level1-sm.png" />
 
-<img src="/blog/images/tonde-iko/level2-sm.png" />
+<img src="/images/tonde-iko/level2-sm.png" />
 
 I also made the levels 1920x1080 and it was working great. The steam carnival
 guys asked me to stop by and show them how it was going. I showed them and
@@ -102,7 +102,7 @@ level. I was really worried that he might make something gaudy that clashed
 with the levels and made it hard to see what's level and what's background but
 what he added was perfect. Exactly what it needed to be.
 
-<img src="/blog/images/tonde-iko/level0-with-bg.gif" />
+<img src="/images/tonde-iko/level0-with-bg.gif" />
 
 John freaked me out a little because he wanted to add lots of stuff and all I
 wanted to do was be done. Fortunately he assured me he could get the stuff he
