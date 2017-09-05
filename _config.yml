@@ -17,7 +17,8 @@ title: HappyFunTimes Blog
 email: happyfuntimes@greggman.com
 description: > # this means to ignore newlines until "baseurl:"
   Happy fun times making HappyFunTimes
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+# this doesn't work on github
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.happyfuntimes.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: greggman
 github_username:  greggman
