@@ -1,0 +1,14 @@
+/*
+Theme Name: HappyFunTimes
+Description: A Child Theme of twentythriteen
+Template: twentythirteen
+*/
+@import url(../twentythirteen/style.css);
+
+
+#disqus_thread {
+    max-width: 600px;
+    margin: auto;
+}
+
+
