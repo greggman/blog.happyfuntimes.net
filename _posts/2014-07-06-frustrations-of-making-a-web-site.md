@@ -2,6 +2,7 @@
 title: Frustrations of making a web site
 date: '2014-07-06'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/frustrations-of-making-a-web-site/
 tags:
   - Uncategorized

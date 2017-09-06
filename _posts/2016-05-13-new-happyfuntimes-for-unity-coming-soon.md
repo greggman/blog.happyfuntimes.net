@@ -2,6 +2,7 @@
 title: New HappyFunTimes for Unity Coming Soon
 date: '2016-05-13'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/new-happyfuntimes-for-unity-coming-soon/
 tags:
   - Uncategorized

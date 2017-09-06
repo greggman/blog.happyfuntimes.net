@@ -2,6 +2,7 @@
 title: Picking the wrong Framework?
 date: '2014-08-31'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/picking-the-wrong-framework/
 tags:
   - Uncategorized

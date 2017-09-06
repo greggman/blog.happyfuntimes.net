@@ -2,6 +2,7 @@
 title: Taking things for granted
 date: '2014-09-07'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/taking-things-for-granted/
 tags:
   - Uncategorized

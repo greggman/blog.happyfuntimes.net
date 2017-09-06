@@ -2,6 +2,7 @@
 title: First Post
 date: '2014-06-09'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/first-post/
 tags:
   - Uncategorized

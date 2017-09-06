@@ -2,6 +2,7 @@
 title: New Version Coming Soon
 date: '2015-04-30'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/new-version-coming-soon/
 tags:
   - HappyFunTimes

@@ -2,6 +2,7 @@
 title: Apparent lack of Progress
 date: '2015-06-23'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/appearent-lack-of-progress/
 tags:
   - HappyFunTimes

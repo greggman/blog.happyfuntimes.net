@@ -2,6 +2,7 @@
 title: npm is awesome and sucks at the same time.
 date: '2014-07-06'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/npm-is-awesome-and-sucks-at-the-same-time/
 tags:
   - Uncategorized

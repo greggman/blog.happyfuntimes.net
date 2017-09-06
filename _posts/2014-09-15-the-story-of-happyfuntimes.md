@@ -2,6 +2,7 @@
 title: The Story of HappyFunTimes
 date: '2014-09-15'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/the-story-of-happyfuntimes/
 tags:
   - HappyFunTimes

@@ -2,6 +2,7 @@
 title: Sony Playlink
 date: '2017-06-20'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/sony-playlink/
 tags:
   - HappyFunTimes

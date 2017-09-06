@@ -2,6 +2,7 @@
 title: lost in spaghetti land
 date: '2014-09-05'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/lost-in-spaghetti-land/
 tags:
   - database

@@ -2,6 +2,7 @@
 title: Fixing the wrong bug.
 date: '2014-09-05'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/fixing-the-wrong-bug/
 tags:
   - Uncategorized

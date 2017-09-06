@@ -113,6 +113,10 @@ h1.post-title,
 .slide img {
     max-width: 660px;
 }
+.post-body>iframe {
+  display: block;
+  margin: 0 auto;
+}
 .post-body>p>a>img,
 .post-body>p>img {
     max-width: 700px;

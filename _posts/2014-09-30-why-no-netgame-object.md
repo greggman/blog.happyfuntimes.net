@@ -2,6 +2,7 @@
 title: Why No NetGame Object?
 date: '2014-09-30'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/why-no-netgame-object/
 tags:
   - happyfuntimes

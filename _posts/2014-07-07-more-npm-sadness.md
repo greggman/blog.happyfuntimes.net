@@ -2,6 +2,7 @@
 title: more npm sadness
 date: '2014-07-07'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/more-npm-sadness/
 tags:
   - Uncategorized

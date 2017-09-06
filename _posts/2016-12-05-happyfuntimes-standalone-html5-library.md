@@ -2,6 +2,7 @@
 title: happyFunTimes standalone HTML5 library
 date: '2016-12-05'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/happyfuntimes-standalone-html5-library/
 tags:
   - HappyFunTimes

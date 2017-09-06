@@ -2,6 +2,7 @@
 title: Making HappyFunTimes into a Platform
 date: '2014-06-10'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/making-happyfuntimes-into-a-platform/
 tags:
   - Uncategorized

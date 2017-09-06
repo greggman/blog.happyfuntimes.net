@@ -2,6 +2,7 @@
 title: Thinking outside the Box - Making HFT Games
 date: '2015-01-17'
 layout: post
+excerpt_separator: "noexcerpt"
 permalink: /blog/thinking-outside-the-box-making-hft-games/
 tags:
   - HappyFunTimes
